@@ -1,0 +1,9 @@
+C:\dotnet\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\dotnet\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\SampleClassification.Model.deps.json
+C:\dotnet\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\SampleClassification.Model.dll
+C:\dotnet\SampleClassification\SampleClassification.Model\bin\Debug\netstandard2.0\SampleClassification.Model.pdb
+C:\dotnet\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.csprojAssemblyReference.cache
+C:\dotnet\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.AssemblyInfoInputs.cache
+C:\dotnet\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.AssemblyInfo.cs
+C:\dotnet\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.dll
+C:\dotnet\SampleClassification\SampleClassification.Model\obj\Debug\netstandard2.0\SampleClassification.Model.pdb
